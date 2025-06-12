@@ -1,0 +1,8 @@
+---
+title: "My First Blog Post"
+date: 2025-06-12
+format: html
+---
+
+This is my first blog post written in Quarto.  
+I’m learning to build a health data science blog site!
