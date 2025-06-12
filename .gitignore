@@ -16,3 +16,5 @@ _freeze/
 .quarto/preview/
 _site/
 _freeze/
+
+/.quarto/
